@@ -1,0 +1,149 @@
+@font-face {
+  font-family: "Helvetica";
+  src: url("./Helvetica.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Helvetica";
+  src: url("./Helvetica/Helvetica-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Helvetica";
+  src: url("./Helvetica/Helvetica-Oblique.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Helvetica";
+  src: url("./Helvetica/Helvetica-BoldOblique.ttf") format("truetype");
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Helvetica Light";
+  src: url("./Helvetica/helvetica-light-587ebe5a59211.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Helvetica Compressed";
+  src: url("./Helvetica/helvetica-compressed-5871d14b6903a.otf")
+    format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Helvetica Rounded";
+  src: url("./Helvetica/helvetica-rounded-bold-5871d05ead8de.otf")
+    format("opentype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "KantumruyPro";
+  src: url("./KantumruyPro/KantumruyPro-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "KantumruyPro";
+  src: url("./KantumruyPro/KantumruyPro-BoldItalic.ttf") format("truetype");
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "KantumruyPro";
+  src: url("./KantumruyPro/KantumruyPro-ExtraLight.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "KantumruyPro";
+  src: url("./KantumruyPro/KantumruyPro-ExtraLightItalic.ttf")
+    format("truetype");
+  font-weight: 200;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "KantumruyPro";
+  src: url("./KantumruyPro/KantumruyPro-Italic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "KantumruyPro";
+  src: url("./KantumruyPro/KantumruyPro-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "KantumruyPro";
+  src: url("./KantumruyPro/KantumruyPro-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "KantumruyPro";
+  src: url("./KantumruyPro/KantumruyPro-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "KantumruyPro";
+  src: url("./KantumruyPro/KantumruyPro-MediumItalic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "KantumruyPro";
+  src: url("./KantumruyPro/KantumruyPro-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "KantumruyPro";
+  src: url("./KantumruyPro/KantumruyPro-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "KantumruyPro";
+  src: url("./KantumruyPro/KantumruyPro-SemiBoldItalic.ttf") format("truetype");
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "KantumruyPro";
+  src: url("./KantumruyPro/KantumruyPro-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "KantumruyPro";
+  src: url("./KantumruyPro/KantumruyPro-ThinItalic.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic;
+}
