@@ -23,10 +23,10 @@ export const About = () => {
                 Company
               </h2>
               <p className="text-xl text-muted-foreground mt-4">
-                MekHR is proudly developed by Cam-Mob,
-                a trusted name in innovative software solutions. At Cam-Mob,
-                we specialize in building tools that empower businesses to achieve their goals through technology.
-                With years of experience and a commitment to excellence, Cam-Mob continues to deliver cutting-edge products that drive efficiency and success.
+                MekHR is developed by Cam-Mob, 
+                a software company dedicated to creating practical tools for businesses. 
+                With experience and a focus on quality, 
+                Cam-Mob provides products designed to enhance efficiency and help businesses succeed.
               </p>
             </div>
 
